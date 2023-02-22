@@ -1,1 +1,2 @@
-const 
+const question = document.getElementById("question");
+
